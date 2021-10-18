@@ -2,8 +2,6 @@
 
 ## [веб-сайт](https://a-naraikin.github.io/netology_ahj-homeworks_env_continuous-deployment/)  
 
----
-
 # Домашняя работа «Рабочее окружение: Continuous Deployment»
 
 netology_ahj-homeworks_env_continuous-deployment   

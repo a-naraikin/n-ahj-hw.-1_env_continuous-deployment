@@ -1,0 +1,2 @@
+## netology_ahj-homeworks_env_continuous-deployment  
+[![Build status](https://ci.appveyor.com/api/projects/status/54h58o468vyip694?svg=true)](https://ci.appveyor.com/project/a-naraikin/netology-ahj-homeworks-env-continuous-deployment)

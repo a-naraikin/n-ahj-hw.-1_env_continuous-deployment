@@ -1,6 +1,12 @@
-// TODO: write your code here
-import sum from './basic';
+/* eslint-disable no-console */
+// TODO: write code here
 
-console.log('worked');
+// comment this to pass build
+// const unusedVariable = 'variable';
 
-console.log(sum([1, 2]));
+// for demonstration purpose only
+export default function demo(value) {
+  return value;
+}
+
+console.log('app.js included');

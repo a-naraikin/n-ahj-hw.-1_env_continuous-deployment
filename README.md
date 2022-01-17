@@ -4,8 +4,6 @@
 
 # Домашняя работа «Рабочее окружение: Continuous Deployment»
 
-n-ahj-hw.-1_env_continuous-deployment
-
 ***
 
 [Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)

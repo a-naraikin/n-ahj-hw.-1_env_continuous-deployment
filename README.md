@@ -4,7 +4,7 @@
 
 # Домашняя работа «Рабочее окружение: Continuous Deployment»
 
-netology_ahj-homeworks_env_continuous-deployment  
+n-ahj-hw.-1_env_continuous-deployment
 
 ***
 
